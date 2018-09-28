@@ -1,2 +1,2 @@
 # hello-world
-Staring code for github
+Starting code for github
